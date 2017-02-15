@@ -1,2 +1,2 @@
 # hello-world
-first git project to be used in eclipse
+first git project to be used in eclipse by Chandan
